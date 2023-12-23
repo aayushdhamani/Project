@@ -1,0 +1,15 @@
+.file-upload-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px; /* Adjust the width as needed */
+    margin: auto; /* Center the component on the page */
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  select, input[type="radio"] {
+    margin-left: 10px;
+  }
+  
